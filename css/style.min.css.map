@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "style.min.css",
-	"sourceRoot": "/Users/chuchi/Desktop/exampleSite",
+	"sourceRoot": "/Users/chuchi/Documents/GitHub/exampleSite2",
 	"sources": [
 		"themes/uBlogger/assets/css/style.scss",
 		"themes/uBlogger/assets/css/_variables.scss",
