@@ -5,13 +5,6 @@
         <description>Markdown - Tag - HenryChu</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Copyright © 2020 HenryChu. All rights reserved.</copyright><lastBuildDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</lastBuildDate><atom:link href="https://vizance.github.io/tags/markdown/" rel="self" type="application/rss+xml" /><item>
     <title>This is my first post</title>
-    <link>https://vizance.github.io/my-first-post/</link>
-    <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
-    <author>HenryChu.en</author>
-    <guid>https://vizance.github.io/my-first-post/</guid>
-    <description><![CDATA[This post is my first post]]></description>
-</item><item>
-    <title>This is my first post</title>
     <link>https://vizance.github.io/my-second-post/</link>
     <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
     <author>HenryChu.en</author>

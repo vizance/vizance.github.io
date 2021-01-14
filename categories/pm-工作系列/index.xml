@@ -1,11 +1,9 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>HenryChu</title>
-        <link>https://vizance.github.io/</link>
-        <description>一位專案管理知識中毒的軟體產品經理，熱愛研究生產力工具</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Copyright © 2020 HenryChu. All rights reserved.</copyright><lastBuildDate>Sat, 22 Feb 2020 21:57:40 &#43;0800</lastBuildDate>
-            <atom:link href="https://vizance.github.io/index.xml" rel="self" type="application/rss+xml" />
-        <item>
+        <title>PM 工作系列 - Category - HenryChu</title>
+        <link>https://vizance.github.io/categories/pm-%E5%B7%A5%E4%BD%9C%E7%B3%BB%E5%88%97/</link>
+        <description>PM 工作系列 - Category - HenryChu</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Copyright © 2020 HenryChu. All rights reserved.</copyright><lastBuildDate>Sat, 22 Feb 2020 21:57:40 &#43;0800</lastBuildDate><atom:link href="https://vizance.github.io/categories/pm-%E5%B7%A5%E4%BD%9C%E7%B3%BB%E5%88%97/" rel="self" type="application/rss+xml" /><item>
     <title>2020 軟體業PM面試問題，3個月的面試經驗分享</title>
     <link>https://vizance.github.io/post-1/</link>
     <pubDate>Sat, 22 Feb 2020 21:57:40 &#43;0800</pubDate>
@@ -20,12 +18,5 @@
  數據分析經驗不足，Google Analytics、Firebase、Amplitude…等分析工具，在工作上的使用次數用手指頭數得出來。 商業面分析能力不足，包含市場調查、使用者成長策略(Growth hacking)…等  一、面試公司列表 面試期間：2019.12 ~ 2020.02
 面試公司：共 10 間公司，下面列表按面試順序排列，最後我答應去的公司並沒有在這個列表之中。   以下是面試公司與結果列表：
  [感謝信]Shopback, Product Manager [Offer get]索夫特科技有限公司, Product Manager [Offer get]訊連科技股份有限公司, Product Manager [無聲卡]思維能力科技有限公司, Product Manager [感謝信]股感資訊股份有限公司, 數位金融專案經理 [無聲卡]艾斯移動股份有限公司, Product Manager [婉拒後續面試]泰奈科技有限公司, Product Manager [Offer get]Fable 寓意科技, Product Manager [感謝信]遠見天下-數據發展中心, Project Manager [感謝信]瑞奧股份有限公司, Product Manager]]></description>
-</item><item>
-    <title>This is my first post</title>
-    <link>https://vizance.github.io/my-second-post/</link>
-    <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
-    <author>HenryChu.en</author>
-    <guid>https://vizance.github.io/my-second-post/</guid>
-    <description><![CDATA[This post is my first post]]></description>
 </item></channel>
 </rss>

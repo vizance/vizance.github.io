@@ -3,13 +3,21 @@
         <title>All Posts - HenryChu</title>
         <link>https://vizance.github.io/posts/</link>
         <description>All Posts | HenryChu</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Copyright © 2020 HenryChu. All rights reserved.</copyright><lastBuildDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</lastBuildDate><atom:link href="https://vizance.github.io/posts/" rel="self" type="application/rss+xml" /><item>
-    <title>This is my first post</title>
-    <link>https://vizance.github.io/my-first-post/</link>
-    <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Copyright © 2020 HenryChu. All rights reserved.</copyright><lastBuildDate>Sat, 22 Feb 2020 21:57:40 &#43;0800</lastBuildDate><atom:link href="https://vizance.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>2020 軟體業PM面試問題，3個月的面試經驗分享</title>
+    <link>https://vizance.github.io/post-1/</link>
+    <pubDate>Sat, 22 Feb 2020 21:57:40 &#43;0800</pubDate>
     <author>HenryChu.en</author>
-    <guid>https://vizance.github.io/my-first-post/</guid>
-    <description><![CDATA[This post is my first post]]></description>
+    <guid>https://vizance.github.io/post-1/</guid>
+    <description><![CDATA[前言 2019.08月，我決定從待了2年的公司離職，並且利用3個月的時間來閉關修煉。關於離職前要做些什麼、離職後生活要如何規劃、離職期間的心情調適，可以參考這篇文章：離職，然後呢？寫給離職人的離職說明書
+這篇文章想要分享我在閉關修煉後，3個月的面試問題紀錄與心路歷程，我的目標都放在 “軟體業PM” 工作，對於其他產業的PM無法完全適用。
+經過我各種面試關鍵字的調查，不管是在Google、PTT、Dcard、面試趣…等通路，面試經驗分享主要都是以 “工程師”為主，“PM(產品經理/專案經理)”的分享真的非常少，希望這篇文章對於想要找 “軟體業PM類” 工作的人可以有所幫助。
+背景介紹 我是Henry，畢業於國立研究所與大學，在業界工作有將近4年的時間，分別是2年在金融業的數位銀行部、2年在旅遊新創軟體公司，都是做PM(產品經理)工作。
+主要優勢：
+ 待過大企業與新創公司，所以對方公司要問哪一個經驗都可以回答。 喜歡分享工作經驗和學習成果，曾經做過的事情都會寫文章記錄在部落格上，在面試時是一個很大的加分項。 喜歡接觸程式技術類的工作，有技術背景(大學是資管系)。  主要弱勢：
+ 數據分析經驗不足，Google Analytics、Firebase、Amplitude…等分析工具，在工作上的使用次數用手指頭數得出來。 商業面分析能力不足，包含市場調查、使用者成長策略(Growth hacking)…等  一、面試公司列表 面試期間：2019.12 ~ 2020.02
+面試公司：共 10 間公司，下面列表按面試順序排列，最後我答應去的公司並沒有在這個列表之中。   以下是面試公司與結果列表：
+ [感謝信]Shopback, Product Manager [Offer get]索夫特科技有限公司, Product Manager [Offer get]訊連科技股份有限公司, Product Manager [無聲卡]思維能力科技有限公司, Product Manager [感謝信]股感資訊股份有限公司, 數位金融專案經理 [無聲卡]艾斯移動股份有限公司, Product Manager [婉拒後續面試]泰奈科技有限公司, Product Manager [Offer get]Fable 寓意科技, Product Manager [感謝信]遠見天下-數據發展中心, Project Manager [感謝信]瑞奧股份有限公司, Product Manager]]></description>
 </item><item>
     <title>This is my first post</title>
     <link>https://vizance.github.io/my-second-post/</link>
