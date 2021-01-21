@@ -63,4 +63,4 @@ Disallow: /
 User-agent: ZoominfoBot
 Disallow: /
 
-Sitemap: https://vizance.github.io/sitemap.xml
+Sitemap: https://chuchi.org/sitemap.xml

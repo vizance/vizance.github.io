@@ -1,7 +1,7 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Documentation - Category - HenryChu</title>
-        <link>https://vizance.github.io/categories/documentation/</link>
-        <description>Documentation - Category - HenryChu</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Copyright © 2020 HenryChu. All rights reserved.</copyright><atom:link href="https://vizance.github.io/categories/documentation/" rel="self" type="application/rss+xml" /></channel>
+        <title>Documentation - Category - Chu Chi</title>
+        <link>https://chuchi.org/categories/documentation/</link>
+        <description>Documentation - Category - Chu Chi</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Copyright © 2020 HenryChu. All rights reserved.</copyright><atom:link href="https://chuchi.org/categories/documentation/" rel="self" type="application/rss+xml" /></channel>
 </rss>

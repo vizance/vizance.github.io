@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>All Posts - HenryChu</title>
-        <link>https://vizance.github.io/posts/</link>
-        <description>All Posts | HenryChu</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Copyright © 2020 HenryChu. All rights reserved.</copyright><lastBuildDate>Sat, 22 Feb 2020 21:57:40 &#43;0800</lastBuildDate><atom:link href="https://vizance.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+        <title>All Posts - Chu Chi</title>
+        <link>https://chuchi.org/posts/</link>
+        <description>All Posts | Chu Chi</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Copyright © 2020 HenryChu. All rights reserved.</copyright><lastBuildDate>Sat, 22 Feb 2020 21:57:40 &#43;0800</lastBuildDate><atom:link href="https://chuchi.org/posts/" rel="self" type="application/rss+xml" /><item>
     <title>2020 軟體業PM面試問題，3個月的面試經驗分享</title>
-    <link>https://vizance.github.io/2020-softwarepm-interview-experience/</link>
+    <link>https://chuchi.org/2020-softwarepm-interview-experience/</link>
     <pubDate>Sat, 22 Feb 2020 21:57:40 &#43;0800</pubDate>
     <author>henrychu.en</author>
-    <guid>https://vizance.github.io/2020-softwarepm-interview-experience/</guid>
+    <guid>https://chuchi.org/2020-softwarepm-interview-experience/</guid>
     <description><![CDATA[這篇文章分享我在 2020 年時， 3 個月內面試 10 家公司的經歷與問題集]]></description>
 </item></channel>
 </rss>
