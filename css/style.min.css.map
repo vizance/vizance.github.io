@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "style.min.css",
-	"sourceRoot": "/Users/henrychu/Documents/GitHub/uBlogger theme_20210121",
+	"sourceRoot": "/Users/henrychu/Documents/GitHub/uBlogger theme_20210122",
 	"sources": [
 		"themes/uBlogger/assets/css/style.scss",
 		"themes/uBlogger/assets/css/_variables.scss",

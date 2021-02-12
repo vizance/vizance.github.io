@@ -404,7 +404,7 @@ PressPlay 是我心中排名前三名想去的公司，可惜在“每一家線�
 
 下方是我的面試簡報(已刪除敏感資訊)供大家參考，大家可以當成是模板直接替換成自己的資料即可。
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSyR_GWf_N72Kgm-PYItTOBbOO57K_2s75qZmph6-8maACbiap9Axq_eKmoyC1QIQQ3j45F6W5BS2hB/embed?start=false&loop=false&delayms=3000" frameborder="0" width="730" height="420" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSyR_GWf_N72Kgm-PYItTOBbOO57K_2s75qZmph6-8maACbiap9Axq_eKmoyC1QIQQ3j45F6W5BS2hB/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="420" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 祝大家面試順利！
 
